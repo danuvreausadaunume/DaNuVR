@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
 
-  message.channel.send("**ORBIT**: Dacă ai nevoie de ajutor contactează un owner.");
+  message.channel.send("**DRAKE*: Dacă ai nevoie de ajutor contactează un owner.");
 
 }
 
